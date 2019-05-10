@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Kursach\DialogUC\bin\Release\DialogUC.dll
+C:\Users\admin\source\repos\Kursach\DialogUC\bin\Release\DialogUC.pdb
+C:\Users\admin\source\repos\Kursach\DialogUC\bin\Release\MaterialDesignColors.dll
+C:\Users\admin\source\repos\Kursach\DialogUC\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\source\repos\Kursach\DialogUC\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\source\repos\Kursach\DialogUC\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\UserControl1.g.cs
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\DialogUC_MarkupCompile.cache
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\DialogUC_MarkupCompile.lref
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\UserControl1.baml
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\DialogUC.g.resources
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\DialogUC.Properties.Resources.resources
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\DialogUC.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\DialogUC.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\DialogUC.csproj.CopyComplete
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\DialogUC.dll
+C:\Users\admin\source\repos\Kursach\DialogUC\obj\Release\DialogUC.pdb

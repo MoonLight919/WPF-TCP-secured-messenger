@@ -1,0 +1,154 @@
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF_MarkupCompile.cache
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF_MarkupCompile.lref
+C:\Users\admin\source\repos\NPExamF\NPExamF\bin\Debug\NPExamF.exe.config
+C:\Users\admin\source\repos\NPExamF\NPExamF\bin\Debug\NPExamF.exe
+C:\Users\admin\source\repos\NPExamF\NPExamF\bin\Debug\NPExamF.pdb
+C:\Users\admin\source\repos\NPExamF\NPExamF\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\NPExamF\NPExamF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\NPExamF\NPExamF\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\NPExamF\NPExamF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.g.resources
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.Properties.Resources.resources
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\Server.csproj.CopyComplete
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.exe
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.pdb
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.InitialCreate.resources
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M1.resources
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M2.resources
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M3.resources
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M4.resources
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M5.resources
+C:\Users\admin\source\repos\NPExamF\NPExamF\bin\Debug\ClassesForNP.dll
+C:\Users\admin\source\repos\NPExamF\NPExamF\bin\Debug\ClassesForNP.pdb
+C:\Users\admin\source\repos\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.mg1.resources
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\bin\Debug\NPExamF.exe.config
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\bin\Debug\NPExamF.exe
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\bin\Debug\NPExamF.pdb
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\bin\Debug\EntityFramework.dll
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\bin\Debug\ClassesForNP.pdb
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\bin\Debug\EntityFramework.xml
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\MainWindow.g.cs
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\App.g.cs
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF_MarkupCompile.cache
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF_MarkupCompile.lref
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\MainWindow.baml
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.g.resources
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.InitialCreate.resources
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M1.resources
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M2.resources
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M3.resources
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M4.resources
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M5.resources
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.mg1.resources
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.Properties.Resources.resources
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\Server.csproj.CopyComplete
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.exe
+C:\Users\student.LAN\Downloads\NPExamF\NPExamF\obj\Debug\NPExamF.pdb
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\bin\Debug\NPExamF.exe.config
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\bin\Debug\NPExamF.exe
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\bin\Debug\NPExamF.pdb
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\bin\Debug\ClassesForNP.pdb
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\App.g.cs
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF_MarkupCompile.cache
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF_MarkupCompile.lref
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\MainWindow.baml
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.g.resources
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.InitialCreate.resources
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M1.resources
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M2.resources
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M3.resources
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M4.resources
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.M5.resources
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.Migrations.mg1.resources
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.Properties.Resources.resources
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\Server.csproj.CopyComplete
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.exe
+C:\Users\admin\Downloads\NPExamF (2)\NPExamF\NPExamF\obj\Debug\NPExamF.pdb
+C:\Users\admin\source\repos\Kursach\Server\bin\Debug\NPExamF.exe.config
+C:\Users\admin\source\repos\Kursach\Server\bin\Debug\NPExamF.exe
+C:\Users\admin\source\repos\Kursach\Server\bin\Debug\NPExamF.pdb
+C:\Users\admin\source\repos\Kursach\Server\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\Kursach\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\Kursach\Server\bin\Debug\ClassesForNP.pdb
+C:\Users\admin\source\repos\Kursach\Server\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\Kursach\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\NPExamF_MarkupCompile.cache
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\NPExamF_MarkupCompile.lref
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\NPExamF.g.resources
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\NPExamF.Properties.Resources.resources
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\NPExamF.exe
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\NPExamF.pdb
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\NPExamF.Migrations.mg4.resources
+C:\Users\admin\source\repos\Kursach\Server\bin\Debug\ClassesForNP.dll
+C:\Users\admin\source\repos\Kursach\Server\obj\Debug\NPExamF.Migrations.mg5.resources
+D:\ShittyKursach\Server\bin\Debug\NPExamF.exe.config
+D:\ShittyKursach\Server\bin\Debug\NPExamF.exe
+D:\ShittyKursach\Server\bin\Debug\NPExamF.pdb
+D:\ShittyKursach\Server\bin\Debug\ClassesForNP.pdb
+D:\ShittyKursach\Server\bin\Debug\EntityFramework.xml
+D:\ShittyKursach\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\ShittyKursach\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\ShittyKursach\Server\obj\Debug\MainWindow.g.cs
+D:\ShittyKursach\Server\obj\Debug\App.g.cs
+D:\ShittyKursach\Server\obj\Debug\NPExamF_MarkupCompile.cache
+D:\ShittyKursach\Server\obj\Debug\NPExamF_MarkupCompile.lref
+D:\ShittyKursach\Server\obj\Debug\MainWindow.baml
+D:\ShittyKursach\Server\obj\Debug\NPExamF.g.resources
+D:\ShittyKursach\Server\obj\Debug\NPExamF.Migrations.mg4.resources
+D:\ShittyKursach\Server\obj\Debug\NPExamF.Migrations.mg5.resources
+D:\ShittyKursach\Server\obj\Debug\NPExamF.Properties.Resources.resources
+D:\ShittyKursach\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\ShittyKursach\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\ShittyKursach\Server\obj\Debug\Server.csproj.CopyComplete
+D:\ShittyKursach\Server\obj\Debug\NPExamF.exe
+D:\ShittyKursach\Server\obj\Debug\NPExamF.pdb
+D:\ShittyKursach\Server\bin\Debug\ClassesForNP.dll
+D:\ShittyKursach\Server\obj\Debug\NPExamF.Migrations.mg6.resources
+F:\Projects\ShittyKursach\Server\bin\Debug\NPExamF.exe.config
+F:\Projects\ShittyKursach\Server\bin\Debug\NPExamF.exe
+F:\Projects\ShittyKursach\Server\bin\Debug\NPExamF.pdb
+F:\Projects\ShittyKursach\Server\bin\Debug\ClassesForNP.pdb
+F:\Projects\ShittyKursach\Server\bin\Debug\EntityFramework.xml
+F:\Projects\ShittyKursach\Server\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\ShittyKursach\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\Projects\ShittyKursach\Server\obj\Debug\MainWindow.g.cs
+F:\Projects\ShittyKursach\Server\obj\Debug\App.g.cs
+F:\Projects\ShittyKursach\Server\obj\Debug\NPExamF_MarkupCompile.cache
+F:\Projects\ShittyKursach\Server\obj\Debug\NPExamF_MarkupCompile.lref
+F:\Projects\ShittyKursach\Server\obj\Debug\MainWindow.baml
+F:\Projects\ShittyKursach\Server\obj\Debug\NPExamF.g.resources
+F:\Projects\ShittyKursach\Server\obj\Debug\NPExamF.Migrations.mg4.resources
+F:\Projects\ShittyKursach\Server\obj\Debug\NPExamF.Migrations.mg5.resources
+F:\Projects\ShittyKursach\Server\obj\Debug\NPExamF.Migrations.mg6.resources
+F:\Projects\ShittyKursach\Server\obj\Debug\NPExamF.Properties.Resources.resources
+F:\Projects\ShittyKursach\Server\obj\Debug\Server.csproj.GenerateResource.cache
+F:\Projects\ShittyKursach\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Projects\ShittyKursach\Server\obj\Debug\Server.csproj.CopyComplete
+F:\Projects\ShittyKursach\Server\obj\Debug\NPExamF.exe
+F:\Projects\ShittyKursach\Server\obj\Debug\NPExamF.pdb

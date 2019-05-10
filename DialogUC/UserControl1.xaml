@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="DialogUC.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DialogUC"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             Name="myUserControl"
+             d:DesignHeight="300" d:DesignWidth="400" Background="White">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Height="Auto" Name="HideB" Click="HideB_Click" MouseRightButtonUp="HideB_MouseRightButtonUp"/>
+        <ListBox Name="chatLb" Grid.Row="1" Background="LightGray" MouseDoubleClick="chatLb_MouseDoubleClick" ItemsSource="{Binding ElementName=myUserControl, Path=MyItemsSource}" DisplayMemberPath="Content" Height="260"/>
+    </Grid>
+</UserControl>
